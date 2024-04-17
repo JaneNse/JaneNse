@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @JaneNse
-- 👀 I’m interested in  data science and machine learning
-- 🌱 I’m currently Data Science MSc student with a robust and customer-facing background bin customer service, sales analytics, and data analysis.
-- 💞️ I’m looking to collaborate on Machine learning projects , Database and informatics as well as Data visualization.
-  
-- 😄 Pronouns:She
+- 👋 Hi, I’m Jane Mse
+- 👀 I’m interested in data science and machine learning.
+- 🌱 I’m currently a Data Science MSc student with a robust analytical and customer-facing background in customer service, sales analytics, and data analysis.
+- 💞️ I’m looking to collaborate on Machine learning projects, Database and informatics as well as Data visualization.
+- 😄 She
 - ⚡ I am a chef too🤣
 
 <!---
