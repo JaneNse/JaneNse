@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jane Mse
+- 👋 Hi, I’m Jane Nse
 - 👀 I’m interested in data science and machine learning.
 - 🌱 I’m currently a Data Science MSc student with a robust analytical and customer-facing background in customer service, sales analytics, and data analysis.
 - 💞️ I’m looking to collaborate on Machine learning projects, Database and informatics as well as Data visualization.
